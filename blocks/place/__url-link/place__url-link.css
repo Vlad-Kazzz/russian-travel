@@ -1,0 +1,15 @@
+.place__url-link{
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.22;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+    transition: opacity 0.3s ease;
+}
+
+.place__url-link:hover{
+    opacity: 0.7;
+}
